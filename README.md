@@ -1,4 +1,5 @@
 # hello-world
-Just create sample repository
+Welcome to my personal Github.
 
-Edit COMMIT TEST! TEST!
+I will share my code with you all.
+That's just a simple code, don't be serious about it.
